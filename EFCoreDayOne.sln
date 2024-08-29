@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreDayOne", "EFCoreDayOne\EFCoreDayOne.csproj", "{3F537122-14F7-4E8C-9C30-DADC0784D00F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreDayTwo", "EFCoreDayTwo\EFCoreDayTwo.csproj", "{7BB2854B-92BF-4ED4-849F-6C78376E119A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F537122-14F7-4E8C-9C30-DADC0784D00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F537122-14F7-4E8C-9C30-DADC0784D00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F537122-14F7-4E8C-9C30-DADC0784D00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F537122-14F7-4E8C-9C30-DADC0784D00F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB2854B-92BF-4ED4-849F-6C78376E119A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB2854B-92BF-4ED4-849F-6C78376E119A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB2854B-92BF-4ED4-849F-6C78376E119A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB2854B-92BF-4ED4-849F-6C78376E119A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB65A47C-C573-40DF-9AF5-2B3A60AF2614}
+	EndGlobalSection
+EndGlobal
